@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chemicaljoseweb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chemicaljoseweb/static/js/main.15b70a7c.chunk.js",
+    "main.js.map": "/chemicaljoseweb/static/js/main.15b70a7c.chunk.js.map",
+    "runtime-main.js": "/chemicaljoseweb/static/js/runtime-main.da17c87a.js",
+    "runtime-main.js.map": "/chemicaljoseweb/static/js/runtime-main.da17c87a.js.map",
+    "static/js/2.9dd5e784.chunk.js": "/chemicaljoseweb/static/js/2.9dd5e784.chunk.js",
+    "static/js/2.9dd5e784.chunk.js.map": "/chemicaljoseweb/static/js/2.9dd5e784.chunk.js.map",
+    "index.html": "/chemicaljoseweb/index.html",
+    "precache-manifest.e6abb9158dbccb2c039c5a8f03f0d0d5.js": "/chemicaljoseweb/precache-manifest.e6abb9158dbccb2c039c5a8f03f0d0d5.js",
+    "service-worker.js": "/chemicaljoseweb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/chemicaljoseweb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9dd5e784.chunk.js.LICENSE.txt": "/chemicaljoseweb/static/js/2.9dd5e784.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chemicaljoseweb/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da17c87a.js",
+    "static/js/2.9dd5e784.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.15b70a7c.chunk.js"
+  ]
+}
